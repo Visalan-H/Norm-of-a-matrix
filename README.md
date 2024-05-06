@@ -12,6 +12,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```Python
 # Register No:212223240183
 # Developed By:Visalan H
+```
 # 1-Norm of a Matrix
 ```
 import numpy as np
